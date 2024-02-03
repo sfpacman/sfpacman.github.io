@@ -1,9 +1,9 @@
 ## Welcome to My GitHub Pages
 
-Right now. It is nothing here and it looks like my code - not that pleasant to look at.  
+ This is my personal page to hightlight my bioinformatic work 
 
 
-### Jekyll Themes
+### About ME
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sfpacman/sfpacman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
