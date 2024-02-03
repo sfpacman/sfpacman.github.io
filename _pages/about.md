@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About ME
+title: About Me
 permalink: /about/
 ---
 
@@ -16,7 +16,7 @@ I am skilled in scientific programming (bash, python, SQL, and R) and bioinforma
 
 * Python
     *  [Ilummina InterOp QC Parser](https://github.com/sfpacman/Read_InterOp_illumina)
-      
+
 
 * Fun and miscellaneous
 
