@@ -13,13 +13,13 @@ I am skilled in scientific programming (bash, python, SQL, and R) and bioinforma
 ## My Projects
 
 * R
-
+    * [Pak’s Lawrenson Comp Bio Cookbook](http://pacoquita:8787/files/publication/cookbook/docs/index.html) 
 * Python
     *  [Ilummina InterOp QC Parser](https://github.com/sfpacman/Read_InterOp_illumina)
 
 
 * Fun and miscellaneous
 
-    * [ 10X Visium animation built in R](https://github.com/sfpacman/show_off)
+    * [ 10X Visium animation built in R tidyverse](https://github.com/sfpacman/show_off)
 
     <img src="https://raw.githubusercontent.com/sfpacman/show_off/main/data/animation.gif">
