@@ -13,7 +13,7 @@ I am skilled in scientific programming (bash, python, SQL, and R) and bioinforma
 ## My Projects
 
 * R
-    * [Pak’s Lawrenson Comp Bio Cookbook](http://pacoquita:8787/files/publication/cookbook/docs/index.html) 
+    * [Pak’s Lawrenson Comp Bio Cookbook](https://sfpacman.github.io/cookbook/) 
 * Python
     *  [Ilummina InterOp QC Parser](https://github.com/sfpacman/Read_InterOp_illumina)
 
