@@ -10,6 +10,8 @@ As a Research Bioinformatician at Cedars-Sinai, I apply my expertise in bioinfor
 
 I am skilled in scientific programming (bash, python, SQL, and R) and bioinformatics (pipeline development and data analysis for NGS-based omics) with working knowledge in HPC and cloud computing. I have led pilot studies for applying new NGS assays in ovarian cancer research, developed and documented best practices in programming and data visualization, and mentored undergraduate interns in their bioinformatics projects. I am passionate about finding innovative solutions to complex biological problems and advancing the field of precision medicine
 
+Here is my [CV](https://docs.google.com/document/d/1A3mFwyfMPDVUobou-9QjZuBgzqNJ1uPiFJv2DtTy7s4/edit?usp=sharing)
+
 ## My Projects
 
 * R
