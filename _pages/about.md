@@ -18,6 +18,7 @@ Here is my [CV](https://docs.google.com/document/d/1A3mFwyfMPDVUobou-9QjZuBgzqNJ
     * [Pak’s Lawrenson Comp Bio Cookbook](https://sfpacman.github.io/cookbook/) 
 * Python
     *  [Ilummina InterOp QC Parser](https://github.com/sfpacman/Read_InterOp_illumina)
+    *  ["Anxiety and Depression Rates Between Women with and without Endometriosis" Data Analysis](https://github.com/sfpacman/BEME_poster/blob/main/poster.ipynb)
 
 
 * Fun and miscellaneous
