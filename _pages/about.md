@@ -27,4 +27,4 @@ I am skilled in scientific programming (bash, python, SQL, and R) and bioinforma
 
     <img src="https://raw.githubusercontent.com/sfpacman/show_off/main/data/animation.gif">
     * predicted SOX17 protein structure with dimethylated R150 biuilt in pymol
-    <img src="https://github.com/sfpacman/sfpacman.github.io/blob/master/images/sox17%20(2).gif?raw=true" width="307" height="240" >
+    <img src="https://raw.githubusercontent.com/sfpacman/sfpacman.github.io/master/images/sox17%20(2).gif" width="307" height="240" >
