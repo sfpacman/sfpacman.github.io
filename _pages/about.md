@@ -26,5 +26,9 @@ I am skilled in scientific programming (bash, python, SQL, and R) and bioinforma
     * [ 10X Visium animation built in R tidyverse](https://github.com/sfpacman/show_off)
 
     <img src="https://raw.githubusercontent.com/sfpacman/show_off/main/data/animation.gif">
+    <br></br>
     * predicted SOX17 protein structure with dimethylated R150 built in pymol
-    <img src="https://raw.githubusercontent.com/sfpacman/sfpacman.github.io/master/images/sox17%20(2).gif" width="307" height="240" >
+    
+    <br></br>
+
+    <img src="https://raw.githubusercontent.com/sfpacman/sfpacman.github.io/master/images/sox17%20(2).gif" width="307" height="240">
