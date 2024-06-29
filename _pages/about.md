@@ -14,9 +14,12 @@ I am skilled in scientific programming (bash, python, SQL, and R) and bioinforma
 
 ## My Selected Projects
 
-* R
-    * [Pak’s Lawrenson Comp Bio Cookbook](https://sfpacman.github.io/cookbook/) 
-* Python
+* Tutorial/Presentation
+    * [Pak’s Lawrenson Comp Bio Cookbook](https://sfpacman.github.io/cookbook/), Recipes for common data visualization used in genomics analysis at Lawrenson Lab  
+    * [Exploring Spatial Omics and Beyond: A Bioinformatics Perspective](https://docs.google.com/presentation/d/1Lrdtfe8LcJMTi5DYDDfZGdRTv12Z40kNeoz-GXbVqug/edit?usp=sharing),
+      , Invited talk given at Cedars Sinai Comprehensive Transplant Center
+    * [Intro to R Programming](https://docs.google.com/presentation/d/19Sekhw5X48jLWXTV9sTCflv2kdV79bQ_fonKEPgMTS0/edit?usp=sharing), Two-part programming tutorial given at Lawrenson Lab computational biology meeting 
+* Analysis/Tool
     *  [Ilummina InterOp QC Parser](https://github.com/sfpacman/Read_InterOp_illumina)
     *  ["Anxiety and Depression Rates Between Women with and without Endometriosis" Data Analysis](https://github.com/sfpacman/BEME_poster/blob/main/poster.ipynb)
 * Pipeline
@@ -28,7 +31,7 @@ I am skilled in scientific programming (bash, python, SQL, and R) and bioinforma
     <img src="https://raw.githubusercontent.com/sfpacman/show_off/main/data/animation.gif">
     <br>
     
-    * predicted SOX17 protein structure with dimethylated R150 using Alpha-fold and Vienna-PTM visualized in pymol
+    * predicted SOX17 protein structure with dimethylated R150 using AlphaFold 2 and Vienna-PTM visualized in pymol
     
     <br>
 
