@@ -31,7 +31,7 @@ I am skilled in scientific programming (bash, python, SQL, and R) and bioinforma
     <img src="https://raw.githubusercontent.com/sfpacman/show_off/main/data/animation.gif">
     <br>
     
-    * Comparison of predicted SOX17 protein structure with dimethylated R150 between AlphaFold 2 + Vienna-PTM visualized and AlphaFold 3 in pymol
+    * Comparison of predicted SOX17 protein structure with dimethylated R150 between AlphaFold 2 + Vienna-PTM  and AlphaFold 3 visualized in pymol
     
     <br>
 
