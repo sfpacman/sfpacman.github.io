@@ -16,11 +16,11 @@ I am skilled in scientific programming (bash, python, SQL, and R) and bioinforma
 
 * Tutorial/Presentation
     * [Pak’s Lawrenson Comp Bio Cookbook](https://sfpacman.github.io/cookbook/), Recipes for common data visualization used in genomics analysis at Lawrenson Lab  
-    * [Exploring Spatial Omics and Beyond: A Bioinformatics Perspective](https://docs.google.com/presentation/d/1Lrdtfe8LcJMTi5DYDDfZGdRTv12Z40kNeoz-GXbVqug/edit?usp=sharing),
-      , Invited talk given at Cedars Sinai Comprehensive Transplant Center
+    * [Exploring Spatial Omics and Beyond: A Bioinformatics Perspective](https://docs.google.com/presentation/d/1Lrdtfe8LcJMTi5DYDDfZGdRTv12Z40kNeoz-GXbVqug/edit?usp=sharing), Invited talk given at Cedars Sinai Comprehensive Transplant Center
     * Computational biology journal club presentation  
        *  [Intro to R Programming](https://docs.google.com/presentation/d/19Sekhw5X48jLWXTV9sTCflv2kdV79bQ_fonKEPgMTS0/edit?usp=sharing), Two-part R programming tutorial
-       *  [CellChat](https://docs.google.com/presentation/d/1GW3dPAI7_sJjNF_gFELZH1Mu8n8gzqubsLFBjvhTTgc/edit?usp=sharing) , Two-part cell-cell communication analysis in scRNA-seq
+       *  [CellChat](https://docs.google.com/presentation/d/1GW3dPAI7_sJjNF_gFELZH1Mu8n8gzqubsLFBjvhTTgc/edit?usp=sharing), Two-part cell-cell communication analysis in scRNA-seq
+       *  [Peak Calling Algorithm Overview](https://docs.google.com/presentation/d/1MLnAVGTbLU-JyNgL8usEKhJtIthXskJwW8tO4MyFmPc/edit?usp=sharing), Overview of peak calling algorithm used in ChIP-seq
 * Analysis/Tool
     *  [Ilummina InterOp QC Parser](https://github.com/sfpacman/Read_InterOp_illumina)
     *  ["Anxiety and Depression Rates Between Women with and without Endometriosis" Data Analysis](https://github.com/sfpacman/BEME_poster/blob/main/poster.ipynb)
