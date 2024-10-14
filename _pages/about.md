@@ -22,7 +22,8 @@ I am skilled in scientific programming (bash, python, SQL, and R) and bioinforma
        *  [CellChat](https://docs.google.com/presentation/d/1GW3dPAI7_sJjNF_gFELZH1Mu8n8gzqubsLFBjvhTTgc/edit?usp=sharing), Two-part presentation on cell-cell communication analysis in scRNA-seq, including netSmooth, a network smoothing scRNA-seq imputation method
        *  [Peak Calling Algorithm Overview](https://docs.google.com/presentation/d/1MLnAVGTbLU-JyNgL8usEKhJtIthXskJwW8tO4MyFmPc/edit?usp=sharing), Overview of peak calling algorithm used in ChIP-seq
 * Analysis/Tool
-    *  [Ilummina InterOp QC Parser](https://github.com/sfpacman/Read_InterOp_illumina)
+  * Python
+    *  [Ilummina InterOp QC Parser](https://github.com/sfpacman/Read_InterOp_illumina) 
     *  ["Anxiety and Depression Rates Between Women with and without Endometriosis" Data Analysis](https://github.com/sfpacman/BEME_poster/blob/main/poster.ipynb)
 * Pipeline
     *  [Cut and Tag Pipeline - Under Development](https://github.com/sfpacman/cut_tag_pipeline_public) 
