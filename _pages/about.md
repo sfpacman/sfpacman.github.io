@@ -12,7 +12,7 @@ I am skilled in scientific programming (bash, python, SQL, and R) and bioinforma
 
 [Here is my full CV](https://docs.google.com/document/d/1A3mFwyfMPDVUobou-9QjZuBgzqNJ1uPiFJv2DtTy7s4/edit?usp=sharing)
 
-[My ORCID](https://orcid.org/0009-0004-1471-274)
+[My ORCID](https://orcid.org/0009-0004-1471-2743)
 
 ## My Selected Projects
 
