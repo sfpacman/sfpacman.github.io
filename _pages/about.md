@@ -18,7 +18,7 @@ I am skilled in scientific programming (bash, python, SQL, and R) and bioinforma
 
 * Tutorial/Presentation
     * [Pak’s Lawrenson Comp Bio Cookbook](https://sfpacman.github.io/cookbook/), Recipes for common data visualization used in genomics analysis and general EDA at Lawrenson Lab  
-    * [Exploring Spatial Omics and Beyond: A Bioinformatics Perspective](https://docs.google.com/presentation/d/1Lrdtfe8LcJMTi5DYDDfZGdRTv12Z40kNeoz-GXbVqug/edit?usp=sharing), Invited talk given at Cedars Sinai Comprehensive Transplant Center
+    * [Exploring Spatial Omics and Beyond: A Bioinformatics Perspective](https://docs.google.com/presentation/d/1Lrdtfe8LcJMTi5DYDDfZGdRTv12Z40kNeoz-GXbVqug/edit?usp=sharing), Invited talk given at Cedars Sinai Comprehensive Transplant Center (2024)
     * Computational biology journal club presentation  
        *  [Intro to R Programming](https://docs.google.com/presentation/d/19Sekhw5X48jLWXTV9sTCflv2kdV79bQ_fonKEPgMTS0/edit?usp=sharing), Two-part R programming tutorial
        *  [RNA-Seq: Pipeline and Analysis](https://docs.google.com/presentation/d/1w8y3EGrJ_sp04AAkLgU9DgV2QZicSxfV_F5OZQThmkE/edit?usp=sharing), A gentle introduction to rna-seq pipeline and analysis for wet-lab biologists
