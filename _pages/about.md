@@ -29,7 +29,9 @@ I am skilled in scientific programming (bash, python, SQL, and R) and bioinforma
     *  [Ilummina InterOp QC Parser](https://github.com/sfpacman/Read_InterOp_illumina) 
     *  ["Anxiety and Depression Rates Between Women with and without Endometriosis" Data Analysis](https://github.com/sfpacman/BEME_poster/blob/main/poster.ipynb)
 * Pipeline
-    *  [Cut and Tag Pipeline - Under Development](https://github.com/sfpacman/cut_tag_pipeline_public) 
+    *  Cut and Tag Pipeline - Under Development
+       * [Cut and Tag Pipeline - original bash pipeline](https://github.com/sfpacman/cut_tag_pipeline_public)
+       * [Cut and Tag Pipeline - Nextflow re-write pipeline](https://github.com/sfpacman/cut_tag_pipeline_nf)   
 * Fun and miscellaneous
 
     * [ 10X Visium animation built in R tidyverse](https://github.com/sfpacman/show_off)
